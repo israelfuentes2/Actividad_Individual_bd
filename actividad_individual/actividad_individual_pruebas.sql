@@ -1,4 +1,3 @@
--- Pruebas para actividad_individual
 
 -- Ver todos los contactos
 SELECT * FROM contacto;
