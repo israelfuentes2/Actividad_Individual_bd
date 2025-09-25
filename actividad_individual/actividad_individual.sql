@@ -1,4 +1,4 @@
--- Usar la base: actividad_individual
+
 
 -- Tabla Direccion
 CREATE TABLE direccion (
